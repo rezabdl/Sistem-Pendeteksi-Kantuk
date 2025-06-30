@@ -1,6 +1,3 @@
-Tentu! Berikut adalah versi `README.md` yang sudah diperbarui dengan bagian *Tim Pengembang*, agar kolaborasi kamu dengan kedua temanmu juga tercantum dan dihargai secara profesional.
-
----
 
 # 🛑 Drowsiness Detection System with YOLOv8
 
