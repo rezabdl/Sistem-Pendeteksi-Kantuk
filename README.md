@@ -87,8 +87,8 @@ Untuk mencoba versi aplikasi dengan antarmuka pengguna, kamu bisa mengunduhnya m
 Proyek ini dikembangkan oleh tiga mahasiswa sebagai bagian dari eksplorasi dalam bidang *Computer Vision* dan *Keselamatan Berkendara*:
 
 * **Reza Irwansyah Aryanto**
-* **\Nadya Adisti Cendana**
-* **\Namira Adzanya Yandhini**
+* **Nadya Adisti Cendana**
+* **Namira Adzanya Yandhini**
 
 
 
